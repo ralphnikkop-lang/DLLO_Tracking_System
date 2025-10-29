@@ -28,5 +28,4 @@ Suggestions and concerns:
 What the tracker might look like
 Relevance of pillars in the tracker
 
-Dev progress:
-Supabase Password: dllotrackingsystemdatabase
+
